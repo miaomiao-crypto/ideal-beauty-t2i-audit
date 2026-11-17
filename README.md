@@ -1,5 +1,17 @@
 # Ideal Beauty T2I Audit
 
-Cultural concept resources and browser-based image content coding interface.
+版本 V01 · 2026-11-17
 
-Resource release is being updated on 2026-11-17.
+## 公开编码平台
+
+[免登录查看编码界面与3张生成图像示例](https://ideal-beauty-image-coding.wiry-shark-7447.chatgpt.site)
+
+完整11类内容编码界面，公开只读浏览；全量图像和人工编码数据保留在本地。
+
+## 文化概念与提示资源
+
+[文化资源目录与使用说明](resources/README.md)
+
+[92条文化记录全量CSV](resources/文化概念全量_92条_V01_20261117.csv)
+
+原75条候选记录＋新增17条记录，保留来源与核查状态；附实践与角色资源、多维提示卡、来源清单、覆盖矩阵、三组对照提示及补充实验结果。32张提示卡覆盖16个概念。96是补充实验图像数。
